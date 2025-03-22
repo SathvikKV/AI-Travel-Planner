@@ -6,6 +6,16 @@
 
 ---
 
+## 🎥 Demo Video
+
+Check out the full demo of the Travel Planner Chatbot in action:
+
+👉 [Watch the Demo on Google Drive](https://drive.google.com/file/d/1z175ZfApoAtlQa4rSwbHM_Cgejq-Kg_s/view?usp=sharing)
+
+> This video walks through the chatbot interface, planning flow, and key features.
+
+---
+
 ## ✨ Overview
 
 The **Travel Planner Chatbot** is an interactive conversational assistant that helps users plan trips based on their preferences — destination, age, and group size. It responds with tailored recommendations for places to visit, food to try, activities, and more.
@@ -27,7 +37,7 @@ This project was developed as part of the **Basic Bot Assignment** and demonstra
 
 **Conversation Flow UML**
 
-![Conversation Flow UML](assets/uml.PNG)
+![Conversation Flow UML](assets/uml.png)
 
 
 ---
