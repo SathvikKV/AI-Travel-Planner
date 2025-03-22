@@ -1,0 +1,27 @@
+# === Core Frameworks ===
+fastapi==0.110.0
+uvicorn==0.27.1
+streamlit==1.32.2
+
+# === LangChain and OpenAI ===
+langchain==0.1.13
+openai==1.14.3
+
+# === LangChain Memory Support ===
+langchain-community==0.0.28
+langchain-core==0.1.30
+
+# === Prompt templating ===
+jinja2==3.1.3
+
+# === Pydantic for models ===
+pydantic==1.10.13
+
+# === HTTPX for API calls (used under the hood) ===
+httpx==0.27.0
+
+# === Markdown rendering (optional but useful for Streamlit formatting) ===
+markdown==3.5.2
+
+# === (Optional) Environment variable support ===
+python-dotenv==1.0.1
