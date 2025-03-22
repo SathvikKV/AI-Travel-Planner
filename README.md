@@ -2,7 +2,7 @@
 
 > Your AI-powered assistant for planning personalized and exciting travel adventures — built using LangChain, FastAPI, and Streamlit!
 
-![TravelBot Screenshot](assets/ai_travel_planner.png)
+![TravelBot Screenshot](assets/ai_travel_planner.PNG)
 
 ---
 
