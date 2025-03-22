@@ -27,7 +27,7 @@ This project was developed as part of the **Basic Bot Assignment** and demonstra
 
 **Conversation Flow UML**
 
-![Conversation Flow UML](assets/uml.PNG)
+![Conversation Flow UML](assets/uml.png)
 
 
 ---
