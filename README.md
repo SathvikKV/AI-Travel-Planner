@@ -24,6 +24,12 @@ This project was developed as part of the **Basic Bot Assignment** and demonstra
 - ✅ **Conditional Logic**: Alters recommendations based on user demographics (e.g., age < 30).
 - 💻 **Full-Stack Deployment**: Combines FastAPI backend with Streamlit frontend for full interactivity.
 
+
+**Conversation Flow UML**
+
+![Conversation Flow UML](assets/uml.PNG)
+
+
 ---
 
 ## 🧱 Tech Stack
